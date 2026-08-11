@@ -35,3 +35,11 @@ I'm an IT professional at the beginning of my career, specializing in backend de
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raul1290&show_icons=true&theme=radical&hide_border=true" alt="Raul's GitHub Stats" />
+</div>
